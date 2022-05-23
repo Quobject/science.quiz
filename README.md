@@ -1,8 +1,9 @@
-# science.quiz
+Note: open *.quiz files with Quobject Explorer and/or Quobject mobile apps
 
 # Science Quiz
 
 ## 1 Matter
+matter, substance, physical property, chemical property, chemistry
 
 [1#Matter_terms.quiz](https://s3.amazonaws.com/apps.quobject.io/science.quiz/1%23Matter_terms.quiz)
 
