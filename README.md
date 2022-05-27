@@ -4,9 +4,12 @@ Note: open *.quiz files with Quobject Explorer and/or Quobject mobile apps
 
 FOLLOW ON ALL CHANNELS!! 📢
 
-⭐ TikTok ► https://www.tiktok.com/@sciencequiz142
-⭐ Twitter ► https://twitter.com/ScienceQuiz142
-⭐ YouTube ► https://www.youtube.com/channel/UCCrsEwpgZZHCN6q522aDiVQ
+⭐ TikTok ► https://www.tiktok.com/@sciencequiz142    
+
+⭐ Twitter ► https://twitter.com/ScienceQuiz142   
+
+⭐ YouTube ► https://www.youtube.com/channel/UCCrsEwpgZZHCN6q522aDiVQ   
+
 
 
 ## 1 Matter
