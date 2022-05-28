@@ -34,3 +34,10 @@ Quiz
 [1#Matter part 3 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339452005010690?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
 [1#Matter part 4 TikTok quiz](https://www.tiktok.com/@sciencequiz142/video/7102339544992779522?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
 [1#Matter part 5 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339852691082498?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
+
+<hr />
+*Credits*
+Sources: Wikipedia
+Videos have been designed using images from Freepik.com
+Designed by upklyak / Freepik
+Voices: AWS Polly
