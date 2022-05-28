@@ -36,8 +36,8 @@ Quiz
 [1#Matter part 5 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339852691082498?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
 
 <hr />
-<p>**Credits**</p>
-<p>Sources: Wikipedia and Google search results</p>
-<p>Videos have been designed using images from Freepik.com</p>
-<p>Designed by upklyak / Freepik</p>
-<p>Voices: AWS Polly</p>
+### Credits
+Sources: Wikipedia and Google search results<br>
+Videos have been designed using images from Freepik.com<br>
+Designed by upklyak / Freepik<br>
+Voices: AWS Polly<br>
