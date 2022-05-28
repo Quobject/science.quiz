@@ -28,13 +28,9 @@ Quiz
 4.	Why is flammability a chemical property? 
 5.	Identify three physical properties. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kddBy0HsYhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sciencequiz142/video/7102339135150607618" data-video-id="7102339135150607618" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sciencequiz142" href="https://www.tiktok.com/@sciencequiz142">@sciencequiz142</a> <p>1 Matter Part 1tiktok1</p> <a target="_blank" title="♬ original sound  - Science Quiz" href="https://www.tiktok.com/music/original-sound-Science-Quiz-7102339132856339202">♬ original sound  - Science Quiz</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-
-
+[1#Matter YouTube](https://youtu.be/kddBy0HsYhQ)
 [1#Matter part 1 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339135150607618?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369)
-[1#Matter part 2 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339370455141634?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369)
-[1#Matter part 3 TikTok]()
-[1#Matter part 4 TikTok]()
+[1#Matter part 2 TikTok terms](https://www.tiktok.com/@sciencequiz142/video/7102339370455141634?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369)
+[1#Matter part 3 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339452005010690?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369)
+[1#Matter part 4 TikTok quiz](https://www.tiktok.com/@sciencequiz142/video/7102339544992779522?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369)
+[1#Matter part 5 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339852691082498?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369)
