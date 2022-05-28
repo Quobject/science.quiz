@@ -22,11 +22,11 @@ matter, substance, physical property, chemical property, chemistry
 [1#Matter.docx](https://s3.amazonaws.com/apps.quobject.io/science.quiz/1%23Matter.docx)
 
 Quiz
-1.	When you specify a material as a solid, a liquid, or a gas, you are expressing its state of matter. Is state of matter a chemical or a physical property? 
-2.	What is Chemistry? 
-3.	A quality of gold is that it does not react readily with oxygen or sulfur. Is this a chemical or physical property? 
-4.	Why is flammability a chemical property? 
-5.	Identify three physical properties. 
+1. When you specify a material as a solid, a liquid, or a gas, you are expressing its state of matter. Is state of matter a chemical or a physical property? 
+2. What is Chemistry? 
+3. A quality of gold is that it does not react readily with oxygen or sulfur. Is this a chemical or physical property? 
+4. Why is flammability a chemical property? 
+5. Identify three physical properties. 
 
 [1#Matter YouTube](https://youtu.be/kddBy0HsYhQ) <br>
 [1#Matter part 1 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339135150607618?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
