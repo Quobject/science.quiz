@@ -35,6 +35,41 @@ Quiz
 [1#Matter part 4 TikTok quiz](https://www.tiktok.com/@sciencequiz142/video/7102339544992779522?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
 [1#Matter part 5 TikTok](https://www.tiktok.com/@sciencequiz142/video/7102339852691082498?is_from_webapp=1&sender_device=pc&web_id=7098248241129850369) <br>
 
+
+## 2 International System of Units
+International System of Units, mass, volume, density, weight
+
+
+[2#International_System_of_Units_terms.quiz](https://s3.amazonaws.com/apps.quobject.io/science.quiz/2%23International_System_of_Units_terms.quiz)
+
+[2#International_System_of_Units.quiz](https://s3.amazonaws.com/apps.quobject.io/science.quiz/2%23International_System_of_Units.quiz)
+
+[2#International_System_of_Units.docx](https://s3.amazonaws.com/apps.quobject.io/science.quiz/2%23International_System_of_Units.docx)
+
+Quiz
+1. The density of a material equals its mass divided by its volume. The density of sulfur is 2.0 g/cm3. What is the mass of a sample of sulfur with a volume of 5.0 cm3?
+
+(A) 3.0 g
+(B) 4.0 g
+(C) 8.0 g
+(D) 10 g
+
+2. What is the International System of Units in physics?
+
+3. Which two items of laboratory equipment would be the most helpful for measuring the mass and volume of a rectangular block?
+
+(A) a balance and a metric ruler
+(B) a balance and a stop watch
+(C) a graduated cylinder and a metric ruler
+(D) a metric ruler and a stopwatch
+
+4. A coin is approximately 2 millimeters thick, or 2/1,000 of a meter. How many nanometers (nm) is this?
+
+5. What is mass in physics?
+
+
+
+
 <hr />
 
 ### Credits
