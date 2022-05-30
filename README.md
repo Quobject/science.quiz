@@ -43,11 +43,13 @@ Quiz
 ## 2 International System of Units
 International System of Units, mass, volume, density, weight
 
-[Density problem 1 solution](https://www.wolframalpha.com/input?i=systems+of+equations+calculator&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation1%22%7D+-%3E%22D+%3D+m%2FV%22&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation4%22%7D+-%3E%22%22&assumption=%22FSelect%22+-%3E+%7B%7B%22SolveSystemOf3EquationsCalculator%22%7D%7D&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation2%22%7D+-%3E%22m%3D143%22&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation3%22%7D+-%3E%22V%3D16%22
+Density problem: A piece of copper has a volume of 16 c<sup>3</sup> and a mass of 143 gs. What is the density of copper?
+
+[Density problem solution](https://www.wolframalpha.com/input?i=systems+of+equations+calculator&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation1%22%7D+-%3E%22D+%3D+m%2FV%22&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation4%22%7D+-%3E%22%22&assumption=%22FSelect%22+-%3E+%7B%7B%22SolveSystemOf3EquationsCalculator%22%7D%7D&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation2%22%7D+-%3E%22m%3D143%22&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation3%22%7D+-%3E%22V%3D16%22
 )
 
-YouTube: The Organic Chemistry Tutor<br>
-[Density Practice Problems](https://youtu.be/9CKDQE35qXQ?t=5)
+
+[Density Practice Problems YouTube: The Organic Chemistry Tutor](https://youtu.be/9CKDQE35qXQ?t=5)
 
 
 [2#International_System_of_Units_terms.quiz](https://s3.amazonaws.com/apps.quobject.io/science.quiz/2%23International_System_of_Units_terms.quiz)
@@ -57,7 +59,7 @@ YouTube: The Organic Chemistry Tutor<br>
 [2#International_System_of_Units.docx](https://s3.amazonaws.com/apps.quobject.io/science.quiz/2%23International_System_of_Units.docx)
 
 Quiz
-1. The density of a material equals its mass divided by its volume. The density of sulfur is 2.0 g/cm3. What is the mass of a sample of sulfur with a volume of 5.0 cm3?
+1. The density of a material equals its mass divided by its volume. The density of sulfur is 2.0 g/cm<sup>3</sup>. What is the mass of a sample of sulfur with a volume of 5.0 cm3?
 
 (A) 3.0 g
 (B) 4.0 g
