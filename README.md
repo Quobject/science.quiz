@@ -43,6 +43,9 @@ Quiz
 ## 2 International System of Units
 International System of Units, mass, volume, density, weight
 
+[Density problem 1 solution](https://www.wolframalpha.com/input?i=systems+of+equations+calculator&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation1%22%7D+-%3E%22D+%3D+m%2FV%22&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation4%22%7D+-%3E%22%22&assumption=%22FSelect%22+-%3E+%7B%7B%22SolveSystemOf3EquationsCalculator%22%7D%7D&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation2%22%7D+-%3E%22m%3D143%22&assumption=%7B%22F%22%2C+%22SolveSystemOf4EquationsCalculator%22%2C+%22equation3%22%7D+-%3E%22V%3D16%22
+)
+
 YouTube: The Organic Chemistry Tutor<br>
 [Density Practice Problems](https://youtu.be/9CKDQE35qXQ?t=5)
 
