@@ -72,11 +72,11 @@ Quiz
 3. Which two items of laboratory equipment would be the most helpful for measuring the mass and volume of a rectangular block?
 
 (A) a balance and a metric ruler
-(B) a balance and a stop watch
+(B) a balance and a stopwatch
 (C) a graduated cylinder and a metric ruler
 (D) a metric ruler and a stopwatch
 
-4. A coin is approximately 2 millimeters thick, or 2/1,000 of a meter. How many nanometers (nm) is this?
+4. A coin is approximately 2 millimeters thick, or 2/1000 of a meter. How many nanometers (nm) is this?
 
 5. What is mass in physics?
 
