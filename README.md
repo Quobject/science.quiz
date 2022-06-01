@@ -60,19 +60,19 @@ Density problem 2: What is the mass of a sample of a substance with a volume of 
 Quiz
 1. The density of a material equals its mass divided by its volume. The density of sulfur is 2.0 g/cm<sup>3</sup>. What is the mass of a sample of sulfur with a volume of 5.0 cm3?
 
-(A) 3.0 g
-(B) 4.0 g
-(C) 8.0 g
-(D) 10 g
+(A) 3.0 g<br>
+(B) 4.0 g<br>
+(C) 8.0 g<br>
+(D) 10 g<br>
 
 2. What is the International System of Units in physics?
 
 3. Which two items of laboratory equipment would be the most helpful for measuring the mass and volume of a rectangular block?
 
-(A) a balance and a metric ruler
-(B) a balance and a stopwatch
-(C) a graduated cylinder and a metric ruler
-(D) a metric ruler and a stopwatch
+(A) a balance and a metric ruler<br>
+(B) a balance and a stopwatch<br>
+(C) a graduated cylinder and a metric ruler<br>
+(D) a metric ruler and a stopwatch<br>
 
 4. A coin is approximately 2 millimeters thick, or 2/1000 of a meter. How many nanometers (nm) is this?
 
