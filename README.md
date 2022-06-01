@@ -58,7 +58,7 @@ Density problem 2: What is the mass of a sample of a substance with a volume of 
 [2#International_System_of_Units.docx](https://s3.amazonaws.com/apps.quobject.io/science.quiz/2%23International_System_of_Units.docx)
 
 Quiz
-1. The density of a material equals its mass divided by its volume. The density of sulfur is 2.0 g/cm<sup>3</sup>. What is the mass of a sample of sulfur with a volume of 5.0 cm3?
+1. The density of a material equals its mass divided by its volume. The density of sulfur is 2.0 g/cm<sup>3</sup>. What is the mass of a sample of sulfur with a volume of 5.0 cm<sup>3</sup>?
 
 (A) 3.0 g<br>
 (B) 4.0 g<br>
